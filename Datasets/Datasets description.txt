@@ -1,0 +1,46 @@
+BNNR can conduct drug-disease predictions on three datasets: Fdataset, Cdataset and DNdataset, which can be loaded by matlab.
+
+(1) Fdataset
+Wrname: the DrugBank IDs of drugs;
+
+Wdname: the OMIM IDs of diseases;
+
+drug: drug similarity matrix;
+
+disease: disease similarity matrix;
+
+didr: disease-drug association matrix.
+
+(2) Cdataset
+Wrname: the DrugBank IDs of drugs;
+
+Wdname: the OMIM IDs of diseases;
+
+drug: drug similarity matrix;
+
+disease: disease similarity matrix;
+
+didr: disease-drug association matrix.
+
+(3) DNdataset
+Wrname: the names of drugs;
+
+Wdname: the names of diseases;
+
+drug: drug similarity matrix;
+
+disease: disease similarity matrix;
+
+didr: disease-drug association matrix.
+
+
+Tips:
+Fdataset is obtained from the supplementary material of paper Gottlieb et al., 2011.
+[Gottlieb et al. PREDICT: a method for inferring novel drug indications with application to personalized medicine[J]. Molecular systems biology, 2011,7(1), 496.];
+
+Cdataset is downloaded from the supplementary material of paper H Luo et al.,2016.
+[H Luo et al. Drug repositioning based on comprehensive similarity measures and Bi-Random Walk algorithm[J]. Bioinformatics, 2016, 32(17).];
+
+DNdataset is downloaded from the supplementary material of paper Martinez et al., 2015.
+[Martinez et al. Drugnet: network-based drug-disease prioritization by integrating heterogeneous
+data[J]. Artificial Intelligence in Medicine, 63(1), 41¨C49.]
