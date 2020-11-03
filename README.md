@@ -11,9 +11,7 @@ This work has been presented in ISMB/ECCB 2019 conference in an oral talk during
 "svt.m" is the function of singular value thresholding operator.
 
 Contact:
-If you have any questions or suggestions with the code, please let us know. 
-
-Contact Mengyun Yang at mengyunyang@csu.edu.cn
+If you have any questions or suggestions with the code, please let us know. Contact Mengyun Yang at mengyunyang@csu.edu.cn
 
 # Citation
 
