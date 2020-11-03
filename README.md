@@ -10,5 +10,17 @@ Contact:
 If you have any questions or suggestions with the code, please let us know. 
 Contact Mengyun Yang at mengyunyang@csu.edu.cn
 
-Citation:
+# Citation
+
 Yang M, Luo H, Li Y, Wang J. Drug repositioning based on bounded nuclear norm regularization[J]. Bioinformatics, 2019, 35(14): i455-i463.
+```
+@article{Yang2019Drug,
+  title={Drug repositioning based on bounded nuclear norm regularization},
+  author={Yang, Mengyun  and  Luo, Huimin  and  Li, Yaohang  and  Wang, Jianxin},
+  volume={35},
+  number={14},
+  pages={i455--i463},
+  year={2019},
+  publisher={Oxford University Press}
+}
+```
